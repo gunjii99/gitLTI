@@ -1,0 +1,12 @@
+C:\Users\gunja\source\repos\firstApplication\flowcontrol\obj\Debug\netcoreapp3.1\flowcontrol.AssemblyInfoInputs.cache
+C:\Users\gunja\source\repos\firstApplication\flowcontrol\obj\Debug\netcoreapp3.1\flowcontrol.AssemblyInfo.cs
+C:\Users\gunja\source\repos\firstApplication\flowcontrol\obj\Debug\netcoreapp3.1\flowcontrol.csproj.CoreCompileInputs.cache
+C:\Users\gunja\source\repos\firstApplication\flowcontrol\bin\Debug\netcoreapp3.1\flowcontrol.exe
+C:\Users\gunja\source\repos\firstApplication\flowcontrol\bin\Debug\netcoreapp3.1\flowcontrol.deps.json
+C:\Users\gunja\source\repos\firstApplication\flowcontrol\bin\Debug\netcoreapp3.1\flowcontrol.runtimeconfig.json
+C:\Users\gunja\source\repos\firstApplication\flowcontrol\bin\Debug\netcoreapp3.1\flowcontrol.runtimeconfig.dev.json
+C:\Users\gunja\source\repos\firstApplication\flowcontrol\bin\Debug\netcoreapp3.1\flowcontrol.dll
+C:\Users\gunja\source\repos\firstApplication\flowcontrol\bin\Debug\netcoreapp3.1\flowcontrol.pdb
+C:\Users\gunja\source\repos\firstApplication\flowcontrol\obj\Debug\netcoreapp3.1\flowcontrol.dll
+C:\Users\gunja\source\repos\firstApplication\flowcontrol\obj\Debug\netcoreapp3.1\flowcontrol.pdb
+C:\Users\gunja\source\repos\firstApplication\flowcontrol\obj\Debug\netcoreapp3.1\flowcontrol.genruntimeconfig.cache
